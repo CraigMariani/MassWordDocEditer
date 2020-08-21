@@ -16,7 +16,7 @@ INSTRUCTIONS FOR RUNNING SCRIPT:
  - Script will also need to be in the same directory as the files you are trying to change
  - The script iterates through all files in the directory that it is in and saves it in a new folder called "results_documents"
  - This folder is automitcally created if it does not exist
- - THe script will prompt user for what change they want to make 
+ - The script will prompt user for what change they want to make 
     Example: 
       Say if I wanted to change the date from 2019 to 2020 on all pages and footers type the following after the prompt
       
